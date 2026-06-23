@@ -3,13 +3,9 @@
 
 <p align="left">
 <b>About Me:</b><br><br>
-I am a self-taught and passionate Full Stack Java Developer with hands-on experience building responsive, dynamic web applications. I am proficient in designing robust RESTful APIs and seamlessly connecting frontend interfaces with secure, scalable server-side applications. Adept at leveraging Spring Data JPA, Spring Security, and Microservices Architecture to build modern, enterprise-ready solutions.
+Java Full Stack Developer specializing in building scalable web applications. Proficient in designing robust RESTful APIs with Spring Boot and seamlessly integrating them with responsive React and TypeScript frontends. Experienced in deploying modern architectures, utilizing Docker, Microservices, and AI integrations to deliver secure, high-performance solutions.
 </p>
 <br>
-
-- 🌱 I’m currently learning **Advanced Microservices architecture, independent logic building, and scalable system design.**
-
-- 💬 Ask me about **Java, Spring Ecosystem (MVC, Data JPA, Security), React, and database management.**
 
 - 📫 How to reach me **amaanhussain1706@gmail.com**
 
